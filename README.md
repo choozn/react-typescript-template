@@ -1,4 +1,12 @@
-# Getting Started
+## How to use the template?
+
+The template can be used by using `degit`.
+
+`npm install -g degit`
+
+`npx degit choozn/react-typescript-template name_of_the_project`
+
+## Getting Started
 
 ❤️ This project is based on the [choozn](https://github.com/choozn) react typescript template.
 
