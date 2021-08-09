@@ -1,0 +1,6 @@
+[
+	{
+		"action": "remove",
+		"files": ["src/components/.gitkeep", "src/hooks/.gitkeep", "src/interfaces/.gitkeep", "src/routes/Index/components/.gitkeep"]
+	}
+]
