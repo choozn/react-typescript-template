@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Redirect, Route, Switch } from 'react-router-dom';
 import Layout from './helpers/Layout';
-import Index from './routes/Index/Index';
+import Index from './routes/index/Index';
 
 function App() {
   return (
